@@ -1,7 +1,9 @@
 # StudentCRUD-SpringBoot-MongoDB-PostMan
 <h4>:- Harsh Vardhan Gupta</h4> 
-![logo](https://user-images.githubusercontent.com/85693353/236701183-61cc919f-e21a-42d1-bb50-9d78efd8ff02.png)
-![postman-logo](https://user-images.githubusercontent.com/85693353/236701187-12e3516b-1f58-459b-8429-678b99363385.jpg)
+![images](https://user-images.githubusercontent.com/85693353/227708137-4998605d-bc60-4f23-8db7-944a392eab57.png)
+
+![Postman_Logo](https://user-images.githubusercontent.com/85693353/227640108-572cd0f7-bb11-45fb-9b5c-8b17b85ff066.png)
+<h1># PostMan SS</h1>
 
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/85693353/236701241-4cb35dbe-364b-4c22-824b-86e56d963db8.png">
 <BR></BR>
